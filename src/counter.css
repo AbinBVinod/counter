@@ -1,0 +1,11 @@
+.counter-cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.counter-aligh {
+    margin-left: 700px;
+    margin-top: 350px;
+}
